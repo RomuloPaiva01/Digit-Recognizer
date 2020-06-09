@@ -1,5 +1,5 @@
 # Digit-Recognizer
-Digit Recognizer Kaggle competition. 99.4% accuracy, top 19% using CNNs. Tensorflow
+Digit Recognizer Kaggle competition. 99.528% accuracy, top 15% using CNNs. Pytorch
 
 
 link with the description of the problem and datasets
