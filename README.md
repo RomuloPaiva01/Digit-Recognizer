@@ -1,5 +1,5 @@
 # Digit-Recognizer
-Digit Recognizer Kaggle competition. 99.528% accuracy, top 15% using CNNs. Pytorch
+Digit Recognizer Kaggle competition. 99.528% accuracy, top 14% using CNNs. Pytorch
 
 
 link with the description of the problem and datasets
